@@ -1,3 +1,7 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 h1 {
   top: 20px;
   font-size: 3em;
@@ -27,33 +31,33 @@ tr {
 
 .row2 {
   text-align: center;
-  color: RoyalBlue;
+  color: black;
 }
 .row3 {
   text-align: center;
-  color: Maroon;
+  color: black;
 }
 .row4 {
   text-align: center;
-  color: LightPink;
+  color: black;
 }
 .row5 {
   text-align: center;
-  color: MediumOrchid;
+  color: black;
 }
 .row6 {
   text-align: center;
-  color: ;
+  color: black ;
 }
 .row7 {
   text-align: center;
-  color: Orchid;
+  color: black;
 }
 .row8 {
   text-align: center;
-  color: PaleVioletRed;
+  color: black;
 }
 .row9 {
   text-align: center;
-  color: SeaGreen;
+  color: black;
 }
