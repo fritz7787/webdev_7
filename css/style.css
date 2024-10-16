@@ -1,3 +1,7 @@
+body {
+  background-image: url("../image/sunshine.jpeg");
+  background-position: center;
+}
 .center {
   margin-left: auto;
   margin-right: auto;
