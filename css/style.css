@@ -19,6 +19,8 @@ tr {
   background-color: white;
 }
 .image-planet {
+  border: 2px black;
+  margin: 50px;
   float: right;
   width: 300px;
   padding: 5px;
@@ -30,34 +32,50 @@ tr {
 }
 
 .row2 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black;
 }
 .row3 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black;
 }
 .row4 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black;
 }
 .row5 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black;
 }
 .row6 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black ;
 }
 .row7 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black;
 }
 .row8 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black;
 }
 .row9 {
+  border: 2px black;
+  margin: 50px;
   text-align: center;
   color: black;
 }
